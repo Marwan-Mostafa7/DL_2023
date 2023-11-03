@@ -18,5 +18,5 @@ This Repo belongs to the Deep Learning Course which is being [lectured through m
 - ### GANs
   - Auto-Encoder Variants  GANs Theory
   - Face Generation Project
- Diffusion Models Theory
- Text To Image Project
+- ### Diffusion Models Theory
+  - Text To Image Project
